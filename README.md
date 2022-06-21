@@ -15,3 +15,4 @@ pip3 install tkinter
 ```py
 python3 main.py
 ```
+![screenshot could not be loaded](https://i.imgur.com/RPhe0H2.png "Screenshot of the GUI")
